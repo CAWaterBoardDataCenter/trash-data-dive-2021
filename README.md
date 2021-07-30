@@ -14,25 +14,15 @@ Sponsored by the State Water Board's Office of Information Management and Analys
 
 ### Daily schedule
 date *time* | event | leader
-
 ------------|-------|-------
-
 **Thursday, October 28**|
-
 *9:00am* | Welcome | Corey Clatterbuck
-
 *9:15am* | Event 1 | Speaker
-
 *9:50am* | Break
-
 *10:00am* | Breakout Groups | Breakout leaders
-
 *11:45am* | Lunch | on your own
-
 *12:30pm* | Breakout Groups | Breakout leaders
-
 **Friday, October 29**|
-
 *9:00am* | Welcome back! | Corey Clatterbuck
 
 ***

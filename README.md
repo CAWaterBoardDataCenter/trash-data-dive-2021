@@ -13,6 +13,7 @@ Sponsored by the State Water Board's Office of Information Management and Analys
 ***
 
 ### Daily schedule
+
 date *time* | event | leader
 ------------|-------|-------
 **Thursday, October 28**|

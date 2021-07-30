@@ -4,11 +4,14 @@
 **Location**: Entirely virtual, via Zoom
 
 **Organizer**: Dr. Corey Clatterbuck, California Sea Grant State Fellow, CA State Water Boards - [email me!](mailto:Corey.Clatterbuck@waterboards.ca.gov)
+
 ***
 
 ### Purpose
 Sponsored by the State Water Board's Office of Information Management and Analysis, this Trash Datathon is an opportunity to gather with like-minded individuals and tackle challenging and urgent problems. This Datathon will build upon past efforts to share innovations in the understanding of California's trash data.
+
 ***
+
 ### Daily schedule
 date *time* | event | leader
 ------------|-------|-------
@@ -21,7 +24,9 @@ date *time* | event | leader
 *12:30pm* | Breakout Groups | Breakout leaders
 **Friday, October 29**|
 *9:00am* | Welcome back! | Corey Clatterbuck
+
 ***
+
 ### What are the breakout groups?
 ***
 ### How do I join?

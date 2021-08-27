@@ -12,24 +12,54 @@ Sponsored by the State Water Board's Office of Information Management and Analys
 
 ***
 
-### Daily schedule
+### Daily schedule -- *tentative*
+
+Events are held from 9:30am - 3:00pm PDT (UTC -7) each day. Participants should select 1-2 breakout *groups* to return to during breakout *sessions* throughout the event. 
 
 date *time* | event | leader
 ------------|-------|-------
 **Thursday, October 28**|
-*9:00am* | Welcome | Corey Clatterbuck
-*9:15am* | Event 1 | Speaker
-*9:50am* | Break
-*10:00am* | Breakout Groups | Breakout leaders
+*9:30am* | Welcome | Corey Clatterbuck
+*9:45am* | Event 1 | Keynote Speaker, TBD
+*10:15am* | Break
+*10:30am* | Breakout Session 1 | Breakout organizers
 *11:45am* | Lunch | on your own
-*12:30pm* | Breakout Groups | Breakout leaders
+*12:30pm* | Breakout Session 2 | Breakout organizers
+*2:30pm* | Wrap-up Day 1 | Breakout organizers
+*3:00pm* | Event end
 **Friday, October 29**|
-*9:00am* | Welcome back! | Corey Clatterbuck
-
+*9:30am* | Welcome back! | Corey Clatterbuck
+*9:45am* | Breakout Session 3 | Breakout organizers
+*11:45am* | Lunch | on your own
+*12:30pm* | Breakout Session 4 | Breakout organizers
+*2:00pm* | Wrap-up Day 2 | Breakout organizers
+*3:00pm* | Event end 
 ***
 
 ### What are the breakout groups?
 
+**Breakout group 1:** Assessing compliance of Track 2 Trash amendment strategies throughout California
+
+**Organizers:** Dr. Win Cowger, Gary Conley, and Dr. Julian Fulton
+
+Track 2 trash amendment compliance is happening throughout the state. Municipal entities are implementing interventions to litter and assessing how effective they are. With little guidance from the state about exactly how to assess intervention efficacy, there will likely be many challenges ahead for comparing efficacy metrics across jurisdictions. This may be a roadblock for figuring out which intervention strategies are the best and how to increase our reductions in litter in the future. This workgroup will focus on the state of track 2 reporting and data collection, identify similarities and differences between the data, and share preliminary knowledge about the efficacy of the variety of strategies being tested to prevent and cleanup litter throughout the state. 
+
+
+**Breakout group 2:** Remote ecosystem to tell trash stories
+
+**Organizers:** Shelly Moore, *TBD*
+
+Past datathons have discussed the importance and need for storytelling on trash. This breakout would provide a virtual platform and tools to tell trash stories. *More information to come*
+
+
+**Breakout group 3:** Making trash data clean
+
+**Organizers:** Walter Yu, *TBD*
+
+Description TBD. 
+
+
+*additional breakout groups may be added!* 
 ***
 
 ### How do I join?

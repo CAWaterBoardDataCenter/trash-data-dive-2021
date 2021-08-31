@@ -16,8 +16,8 @@ Sponsored by the State Water Board's Office of Information Management and Analys
 
 Events are held from 9:30am - 3:00pm PDT (UTC -7) each day. Participants should select 1-2 breakout *groups* to return to during breakout *sessions* throughout the event. 
 
-|date *time*  | event             | leader              |
-|:----------:|:------------------:|----------------------
+|date *time* | event              | leader               |
+|------------|--------------------|----------------------|
 |**Thursday, October 28**|
 |*9:30am*    | Welcome            | Corey Clatterbuck
 |*9:45am*    | Event 1            | Keynote Speaker, TBD
@@ -34,6 +34,7 @@ Events are held from 9:30am - 3:00pm PDT (UTC -7) each day. Participants should 
 |*12:30pm*   | Breakout Session 4 | Breakout organizers
 |*2:00pm*    | Wrap-up Day 2      | Breakout organizers
 |*3:00pm*    | Event end          |
+
 ***
 
 ### What are the breakout groups?

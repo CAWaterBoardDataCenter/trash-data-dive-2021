@@ -18,7 +18,7 @@ Events are held from 9:30am - 3:00pm PDT (UTC -7) each day. Participants should 
 
 date *time* | event              | leader
 ------------|--------------------|----------------------
-**Thursday, October 28**|
+**Thursday, October 28**|        |
 *9:30am*    | Welcome            | Corey Clatterbuck
 *9:45am*    | Event 1            | Keynote Speaker, TBD
 *10:15am*   | Break              |
@@ -27,7 +27,7 @@ date *time* | event              | leader
 *12:30pm*   | Breakout Session 2 | Breakout organizers
 *2:30pm*    | Wrap-up Day 1      | Breakout organizers
 *3:00pm*    | Event end          |
-**Friday, October 29**|
+**Friday, October 29**|          |
 *9:30am*    | Welcome back!      | Corey Clatterbuck
 *9:45am*    | Breakout Session 3 | Breakout organizers
 *11:45am*   | Lunch              | on your own

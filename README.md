@@ -21,19 +21,19 @@ date *time* | event | leader
 **Thursday, October 28**|
 *9:30am* | Welcome | Corey Clatterbuck
 *9:45am* | Event 1 | Keynote Speaker, TBD
-*10:15am* | Break
+*10:15am* | Break |
 *10:30am* | Breakout Session 1 | Breakout organizers
 *11:45am* | Lunch | on your own
 *12:30pm* | Breakout Session 2 | Breakout organizers
 *2:30pm* | Wrap-up Day 1 | Breakout organizers
-*3:00pm* | Event end
+*3:00pm* | Event end |
 **Friday, October 29**|
 *9:30am* | Welcome back! | Corey Clatterbuck
 *9:45am* | Breakout Session 3 | Breakout organizers
 *11:45am* | Lunch | on your own
 *12:30pm* | Breakout Session 4 | Breakout organizers
 *2:00pm* | Wrap-up Day 2 | Breakout organizers
-*3:00pm* | Event end 
+*3:00pm* | Event end |
 ***
 
 ### What are the breakout groups?

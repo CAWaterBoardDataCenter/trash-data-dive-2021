@@ -8,7 +8,7 @@
 ***
 
 ### Purpose
-Sponsored by the State Water Board's Office of Information Management and Analysis, this Trash Datathon is an opportunity to gather with like-minded individuals and tackle challenging and urgent problems. This Datathon will build upon past efforts to share innovations in the understanding of California's trash data.
+The Trash Data Dive is an annual forum for data scientists, environmental planners, land use experts, and advocates for environmental justice to discuss and collaborate on trash data & policy. The goal of the Data Dive is to use trash data effectively to drive improved and equitable social and environmental outcomes. This year, Data Dive participants will spend 2 days building and sharing technological, policy, and storytelling innovations leading towards less trash in our communities. 
 
 ***
 

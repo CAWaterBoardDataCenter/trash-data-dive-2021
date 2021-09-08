@@ -5,6 +5,8 @@
 
 **Organizer**: Dr. Corey Clatterbuck, California Sea Grant State Fellow, CA State Water Boards - [email me!](mailto:Corey.Clatterbuck@waterboards.ca.gov)
 
+**Ready to register?** Use this [Google form](https://forms.gle/b4PdHAAzDghwEJmR6) to register by Monday, October 25th
+
 ***
 
 ### Purpose
@@ -56,12 +58,15 @@ Past datathons have discussed the importance and need for storytelling on trash.
 Description TBD. 
 
 
-*additional breakout groups may be added!* 
+**Breakout group 4:** Trash education and outreach  
+**Organizers:** Michelle Alexander, *TBD*  
+Description TBD.
+
 
 ***
 
 ### How do I join?
-Sign up using this Google form by XXX date (link to be added). Corey will send Zoom links to access each day's events via email.
+Sign up using this [Google form](https://forms.gle/b4PdHAAzDghwEJmR6) by Monday, October 25th. Corey will send Zoom links to access each day's events via email.
 
 ***
 

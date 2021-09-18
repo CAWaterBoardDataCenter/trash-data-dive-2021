@@ -46,7 +46,7 @@ Events are held from 9:30am - 3:00pm PDT (UTC -7) each day. Participants should 
 
 Participants should select 1-2 breakout *groups* to return to during breakout *sessions* throughout the event.
 
-**Breakout group 1:** Assessing compliance of Track 2 Trash amendment strategies throughout California  
+**Breakout group 1:**  Assessing Utility of Track 2 Trash Amendment Data Collection Strategies Throughout California  
 **Organizers:** Dr. Win Cowger, Gary Conley, Jarma Bennett, and Dr. Julian Fulton  
 Track 2 trash amendment compliance is happening throughout the state. Municipal entities are implementing interventions to litter and assessing how effective they are. With little guidance from the state about exactly how to assess intervention efficacy, there will likely be many challenges ahead for comparing efficacy metrics across jurisdictions. This may be a roadblock for figuring out which intervention strategies are the best and how to increase our reductions in litter in the future. This workgroup will focus on the state of track 2 reporting and data collection, identify similarities and differences between the data, and share preliminary knowledge about the efficacy of the variety of strategies being tested to prevent and cleanup litter throughout the state. 
 
@@ -56,8 +56,8 @@ Track 2 trash amendment compliance is happening throughout the state. Municipal 
 Past datathons have discussed the importance and need for storytelling on trash. This breakout would provide a virtual platform and tools to tell trash stories. *More information to come*
 
 
-**Breakout group 3:** Making trash data clean  
-**Organizers:** Walter Yu, *TBD*  
+**Breakout group 3:** Machine learning to make trash data clean  
+**Organizers:** Walter Yu & Tony Hale  
 Description TBD. 
 
 

@@ -92,4 +92,4 @@ Sign up using this [Google form](https://forms.gle/b4PdHAAzDghwEJmR6) by Monday,
 
 ### Partners
 
-<img align="bottom" src="2021datadive_logos.png" width="650> 
+<img align="bottom" src="2021datadive_logos.png" width="650"> 

@@ -48,7 +48,7 @@ Participants should select 1-2 breakout *groups* to return to during breakout *s
 
 **Assessing Utility of Track 2 Trash Amendment Data Collection Strategies Throughout California**  
 **Organizers:** [Dr. Win Cowger](www.wincowger.com), [Gary Conley](https://www.2ndnaturewater.com/about/), Jarma Bennett, and [Dr. Julian Fulton](https://www.researchgate.net/profile/Julian-Fulton-2)  
-Track 2 trash amendment compliance is happening throughout the state. Municipal entities are implementing interventions to litter and assessing how effective they are. With little guidance from the state about exactly how to assess intervention efficacy, there will likely be many challenges ahead for comparing efficacy metrics across jurisdictions. This may be a roadblock for figuring out which intervention strategies are the best and how to increase our reductions in litter in the future. This workgroup will focus on the state of track 2 reporting and data collection, identify similarities and differences between the data, and share preliminary knowledge about the efficacy of the variety of strategies being tested to prevent and cleanup litter throughout the state. 
+Track 2 trash amendment compliance is happening throughout the State, with permitted entities implementing litter interventions and assessing their effectiveness at a range of scales. The diversity of approaches towards both implementation and progress tracking will pose challenges for meaningful comparisons of program efficacy across the state, quantifying aggregate progress, and for identifying the most effective measures. This workgroup will focus on the state of track 2 data collection and reporting. We will explore similarities and differences of the data collected, identify critical information gaps, and share preliminary insights on the efficacy of strategies to eliminate trash delivery to receiving waters.  
 
 
 **Remote ecosystem to tell trash stories**  
@@ -59,11 +59,6 @@ Past datathons have discussed the importance and need for storytelling on trash.
 **Machine learning to make trash data clean**  
 **Organizers:** Walter Yu & [Tony Hale](https://www.sfei.org/users/tony-hale)  
 Description TBD. 
-
-
-**Trash education and outreach** - *tentative*  
-**Organizers:** Michelle Alexander, *TBD*  
-Description TBD.
 
 
 ***

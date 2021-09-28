@@ -9,7 +9,7 @@
 **Organizer**: Dr. Corey Clatterbuck, California Sea Grant State Fellow, CA State Water Boards - [email me!](mailto:Corey.Clatterbuck@waterboards.ca.gov)
 
 **Ready to register?** Registration is in two steps:  
-1. Register on [Eventbrite](https://www.eventbrite.com/e/trash-data-dive-2021-tickets-178226840277) by Monday, October 25th. 
+1. Register on [Zoom](https://waterboards.zoom.us/meeting/register/tJcpcequqjooG9fOcH59gx3ckXFx4oHMfy7n) by Monday, October 25th. 
 2. Fill out this [Google form](https://forms.gle/b4PdHAAzDghwEJmR6) so we can learn more about your interest in trash data!
 
 ***
@@ -67,7 +67,7 @@ Description TBD.
 
 ### How do I join?
 Registration is in two steps:  
-1. Register on [Eventbrite](https://www.eventbrite.com/e/trash-data-dive-2021-tickets-178226840277) by Monday, October 25th. All registrants will receive a calendar invite as a save-the-date. A Zoom link to the event will be emailed to all registrants on Tuesday, October 26th. 
+1. Register on [Zoom](https://waterboards.zoom.us/meeting/register/tJcpcequqjooG9fOcH59gx3ckXFx4oHMfy7n) by Monday, October 25th. All registrants will receive a calendar invite and link to our Zoom meeting room for the 2 days of the event! 
 2. Fill out this [Google form](https://forms.gle/b4PdHAAzDghwEJmR6) so we can learn more about your interest in trash data!
 
 ***

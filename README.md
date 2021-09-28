@@ -8,8 +8,7 @@
 
 **Organizer**: Dr. Corey Clatterbuck, California Sea Grant State Fellow, CA State Water Boards - [email me!](mailto:Corey.Clatterbuck@waterboards.ca.gov)
 
-**Ready to register?** Registration is in two steps:  
-1. Register on [Zoom](https://waterboards.zoom.us/meeting/register/tJcpcequqjooG9fOcH59gx3ckXFx4oHMfy7n) by Monday, October 25th. All registrants will receive a calendar invite and link to our Zoom meeting room for the 2 days of the event!  
+**Ready to register?**: Register on [Zoom](https://waterboards.zoom.us/meeting/register/tJcpcequqjooG9fOcH59gx3ckXFx4oHMfy7n) by Monday, October 25th. All registrants will receive a calendar invite and link to our Zoom meeting room for the 2 days of the event!  
 
 ***
 

@@ -66,9 +66,8 @@ Description TBD.
 
 ***
 
-### How do I join?
-Registration is in two steps:  
-1. Register on [Zoom](https://waterboards.zoom.us/meeting/register/tJcpcequqjooG9fOcH59gx3ckXFx4oHMfy7n) by Monday, October 25th. All registrants will receive a calendar invite and link to our Zoom meeting room for the 2 days of the event! 
+### How do I join?  
+Register on [Zoom](https://waterboards.zoom.us/meeting/register/tJcpcequqjooG9fOcH59gx3ckXFx4oHMfy7n) by Monday, October 25th. All registrants will receive a calendar invite and link to our Zoom meeting room for the 2 days of the event! 
 
 
 ***

@@ -25,8 +25,8 @@ Events are held from 9:30am - 3:30pm PDT (UTC -7) each day. Participants should 
 |------------|--------------------|----------------------|
 |**Thursday, October 28**|
 |*9:30am*    | Welcome            | Corey Clatterbuck & Greg Gearheart
-|*9:45am*    | Keynote            | Keynote Speaker, TBD
-|*10:20am*   | Break              |
+|*9:45am*    | Keynote            | Chris Richardson, CPO, (Downtown Streets Team)[https://streetsteam.org/model]
+|*10:25am*   | Break              |
 |*10:30am*   | Introduce breakout sessions | Corey & Breakout organizers
 |*10:45am*   | Breakout Session 1 | Breakout organizers
 |*12:15pm*   | Lunch              | on your own

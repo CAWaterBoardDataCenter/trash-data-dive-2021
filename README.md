@@ -13,7 +13,7 @@
 ***
 
 ### Purpose
-The Trash Data Dive is an annual forum for data scientists, environmental planners, land use experts, and advocates for environmental justice to discuss and collaborate on trash data & policy. The goal of the Data Dive is to use trash data effectively to drive improved and equitable social and environmental outcomes. This year, Data Dive participants will spend 2 days building and sharing technological, policy, and storytelling innovations leading towards less trash in our communities. 
+The Trash Data Dive is an annual forum for data scientists, environmental planners, trash regulators, land use experts, and advocates for environmental justice to discuss and collaborate on trash data & policy. The goal of the Data Dive is to use trash data effectively to drive improved and equitable social and environmental outcomes. This year, Data Dive participants will spend 2 days building and sharing technological, policy, and storytelling innovations leading towards less trash in our communities. 
 
 ***
 
@@ -35,7 +35,7 @@ Events are held from 9:30am - 3:30pm PDT (UTC -7) each day. Participants should 
 |*3:30pm*    | Event end          |
 |**Friday, October 29**|
 |*9:30am*    | Welcome back!      | Corey Clatterbuck
-|*9:45am*    | Clean California's Stormwater Campaign | Michelle Alexander
+|*9:45am*    | [Caltrans Stormwater Public Education Campaign](https://CleanCA.com) | Michelle Alexander
 |*10:20am*   | Break              |
 |*10:30am*   | Breakout Session 3 | Breakout organizers
 |*12:15pm*   | Lunch              | on your own
@@ -60,7 +60,7 @@ Past datathons have discussed the importance and need for storytelling on trash.
 
 
 **Machine learning to make trash data clean**  
-**Organizers:** Walter Yu & [Tony Hale](https://www.sfei.org/users/tony-hale)  
+**Organizers:** Walter Yu & [Dr. Tony Hale](https://www.sfei.org/users/tony-hale)  
 Description TBD. 
 
 

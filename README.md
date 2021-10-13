@@ -30,7 +30,7 @@ Events are held from 9:30am - 3:30pm PDT (UTC -7) each day. Participants should 
 |*10:30am*   | Introduce breakout sessions | Corey & Breakout organizers
 |*10:45am*   | Breakout Session 1 | Breakout organizers
 |*12:15pm*   | Lunch              | on your own
-|*1:00pm*    | AI/ML demo         | *TBA*
+|*1:00pm*    | AI/ML demo: Google Litter Insights Platform | Google Cloud team
 |*1:30pm*    | Breakout Session 2 | Breakout organizers
 |*3:15pm*    | Wrap-up Day 1      | Breakout organizers
 |*3:30pm*    | Event end          |
@@ -56,18 +56,17 @@ Track 2 trash amendment compliance is happening throughout the State, with permi
 
 
 **Remote ecosystem to tell trash stories**  
-**Organizers:** [Shelly Moore](https://mooreplasticresearch.org/staff/), *TBD*  
+**Organizers:** [Shelly Moore](https://mooreplasticresearch.org/staff/), [Sarah Hutmacher](https://www.sandiegoriver.org/our_team.html), and [Don McEnhill](https://russianriverkeeper.org/don-mcenhill/)  
 Past datathons have discussed the importance and need for storytelling on trash. This breakout would provide a virtual platform and tools to tell trash stories. *More information to come*
 
 
 **Machine learning to make trash data clean**  
 **Organizers:** Walter Yu & [Dr. Tony Hale](https://www.sfei.org/users/tony-hale)  
-Artificial intelligence and machine learning (AI/ML) is gaining adoption in many disciplines, including litter abatement and stormwater management, so this breakout session will focus on specific use cases and applications. Also, this session will include a presentation by the Google Cloud team to present their Litter Insights Platform which they are developing to identify litter using AI and Google Street View imagery. Session topics will general discussion, brainstorming and a hands-on exercise with machine learning to encourage additional development and collaboration by participants. No coding experience is required, but this session will provide some accessible tools to help analysts and others interested in visualizing trash data dive into code that leverages some recent innovations.  
+Artificial intelligence and machine learning (AI/ML) is gaining adoption in many disciplines, including litter abatement and stormwater management, so this breakout session will focus on specific use cases and applications. Also, this session will build on the Litter Insights Platform presentation by the Google Cloud team, which Google is developing to identify litter using AI and Google Street View imagery. Session topics will general discussion, brainstorming and a hands-on exercise with machine learning to encourage additional development and collaboration by participants. No coding experience is required, but this session will provide some accessible tools to help analysts and others interested in visualizing trash data dive into code that leverages some recent innovations.  
 
 The session topics will include:
-1.  Google Cloud Team – Street View AI/ML Demo
-2.	AI/ML Presentation and Group Discussion
-3.	Group Exercises  
+1.	AI/ML Presentation and Group Discussion
+2.	Group Exercises  
     a. Computer Vision – Litter Detection (Google Colab)  
     b.	Open Refine – Data Cleaning with AI/ML  
     c.	Other – Trash Classifier, Data Visualization and Open Data (Jan 2021 Session)

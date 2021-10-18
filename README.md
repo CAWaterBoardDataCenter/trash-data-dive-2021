@@ -25,10 +25,11 @@ In order to facilitate a productive and effective event, we ask that all partici
     * Using pronouns other than he or she
     * On or off-camera
     * Facing other challenges to participation
-2. Be open to other perspectives -- these will make your ideas better!
-3. Remember to approach each interaction with patience and care
-4. We encourage authentic and non-judgmental feedback
-5. Do not attack, demean, harass, or threaten others or encourage this behavior  
+2. Move up & move up: If you tend to not speak a lot, please move up into a role of saying more. If you tend to speak a lot, please move up into a role of listening more.
+3. Be open to other perspectives -- these will make your ideas better!
+4. Remember to approach each interaction with patience and care
+5. We encourage authentic and non-judgmental feedback
+6. Do not attack, demean, harass, or threaten others or encourage this behavior  
 
 To report violations of these guidelines, please contact event organizer Corey Clatterbuck, Corey.Clatterbuck@waterboards.ca.gov, with a description of what has occurred and any supporting information that may be helpful in describing the situation. Corey will meet with Nick Martorano and potentially the session chair, as applicable and if asked, to determine next steps. 
 

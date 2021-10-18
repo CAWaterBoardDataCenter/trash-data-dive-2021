@@ -17,6 +17,23 @@ The Trash Data Dive is an annual forum for data scientists, environmental planne
 
 ***
 
+### Community Participation Guidelines
+In order to facilitate a productive and effective event, we ask that all participants follow the guidelines below. They were developed with the event planning team and borrow heavily from the [Openscapes](https://www.openscapes.org/code-of-conduct/) code of conduct and training materials, including this [piece](https://eyeondesign.aiga.org/are-codes-of-conduct-changing-the-diversity-stats-in-open-source/) from Margaret Rhodes, and the Southern California Academy of Sciences.
+
+1. Be inclusive: respect and facilitate others’ participation whether they are:
+    * Non-native language speakers
+    * Using pronouns other than he or she
+    * On or off-camera
+    * Facing other challenges to participation
+2. Be open to other perspectives -- these will make your ideas better!
+3. Remember to approach each interaction with patience and care
+4. We encourage authentic and non-judgmental feedback
+5. Do not attack, demean, harass, or threaten others or encourage this behavior  
+
+To report violations of these guidelines, please contact event organizer Corey Clatterbuck, Corey.Clatterbuck@waterboards.ca.gov, with a description of what has occurred and any supporting information that may be helpful in describing the situation. Corey will meet with Nick Martorano and potentially the session chair, as applicable and if asked, to determine next steps. 
+
+***
+
 ### Daily schedule -- *tentative*
 
 Events are held from 9:30am - 3:30pm PDT (UTC -7) each day. Participants should select 1-2 breakout *groups* to return to during breakout *sessions* throughout the event. 

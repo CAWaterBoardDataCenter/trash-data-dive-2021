@@ -78,7 +78,7 @@ Track 2 trash amendment compliance is happening throughout the State, with permi
 Past datathons have discussed the importance and need for storytelling on trash. This breakout would provide a virtual platform and tools to tell trash stories. *More information to come*
 
 
-**Machine learning to make trash data clean**  -- *Thursday, October 28th only*
+**Machine learning to make trash data clean**  -- *Thursday, October 28th only*  
 **Organizers:** Walter Yu & [Dr. Tony Hale](https://www.sfei.org/users/tony-hale)  
 Artificial intelligence and machine learning (AI/ML) is gaining adoption in many disciplines, including litter abatement and stormwater management, so this breakout session will focus on specific use cases and applications. Also, this session will build on the Litter Insights Platform presentation by the Google Cloud team, which Google is developing to identify litter using AI and Google Street View imagery. Session topics will general discussion, brainstorming and a hands-on exercise with machine learning to encourage additional development and collaboration by participants. No coding experience is required, but this session will provide some accessible tools to help analysts and others interested in visualizing trash data dive into code that leverages some recent innovations.  
 

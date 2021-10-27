@@ -74,8 +74,8 @@ Track 2 trash amendment compliance is happening throughout the State, with permi
 
 
 **Remote ecosystem to tell trash stories**  
-**Organizers:** [Shelly Moore](https://mooreplasticresearch.org/staff/), [Sarah Hutmacher](https://www.sandiegoriver.org/our_team.html), and [Don McEnhill](https://russianriverkeeper.org/don-mcenhill/)  
-Past datathons have discussed the importance and need for storytelling on trash. This breakout would provide a virtual platform and tools to tell trash stories. *More information to come*
+**Organizers:** [Shelly Moore](https://mooreplasticresearch.org/staff/) and [Sarah Hutmacher](https://www.sandiegoriver.org/our_team.html)  
+Past datathons have discussed the importance and need for storytelling on trash. This breakout would provide a virtual platform and tools to tell trash stories. 
 
 
 **Machine learning to make trash data clean**  -- *Thursday, October 28th only*  
@@ -94,7 +94,7 @@ The session topics will include:
 ***
 
 ### How do I join?  
-Register on [Zoom](https://waterboards.zoom.us/meeting/register/tJcpcequqjooG9fOcH59gx3ckXFx4oHMfy7n) by Monday, October 25th. All registrants will receive a calendar invite and link to our Zoom meeting room for the 2 days of the event! 
+Registration is now closed. All registrants were sent confirmation emails with how to join the event. If you have any questions, please [email](mailto:Corey.Clatterbuck@waterboards.ca.gov) Corey Clatterbuck.
 
 
 ***

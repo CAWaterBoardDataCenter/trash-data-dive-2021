@@ -8,7 +8,7 @@
 
 **Organizer**: Dr. Corey Clatterbuck, California Sea Grant State Fellow, CA State Water Boards - [email me!](mailto:Corey.Clatterbuck@waterboards.ca.gov)
 
-**Ready to register?**: Register on [Zoom](https://waterboards.zoom.us/meeting/register/tJcpcequqjooG9fOcH59gx3ckXFx4oHMfy7n) by Monday, October 25th. All registrants will receive a calendar invite and link to our Zoom meeting room for the 2 days of the event!  
+**Ready to register?**: Registration is now closed. All registrants were sent confirmation emails with how to join the event. If you have any questions, please [email](mailto:Corey.Clatterbuck@waterboards.ca.gov) Corey Clatterbuck.
 
 ***
 
@@ -43,7 +43,7 @@ Events are held from 9:30am - 3:30pm PDT (UTC -7) each day. Participants should 
 |------------|--------------------|----------------------|
 |**Thursday, October 28**|
 |*9:30am*    | Welcome            | Corey Clatterbuck & Greg Gearheart
-|*9:45am*    | Keynote            | Chris Richardson, CPO, [Downtown Streets Team](https://streetsteam.org/model)
+|*9:45am*    | Keynote            | TBA
 |*10:25am*   | Break              |
 |*10:30am*   | Introduce breakout sessions | Corey & Breakout organizers
 |*10:45am*   | Breakout Session 1 | Breakout organizers
@@ -78,7 +78,7 @@ Track 2 trash amendment compliance is happening throughout the State, with permi
 Past datathons have discussed the importance and need for storytelling on trash. This breakout would provide a virtual platform and tools to tell trash stories. *More information to come*
 
 
-**Machine learning to make trash data clean**  
+**Machine learning to make trash data clean**  -- *Thursday, October 28th only*
 **Organizers:** Walter Yu & [Dr. Tony Hale](https://www.sfei.org/users/tony-hale)  
 Artificial intelligence and machine learning (AI/ML) is gaining adoption in many disciplines, including litter abatement and stormwater management, so this breakout session will focus on specific use cases and applications. Also, this session will build on the Litter Insights Platform presentation by the Google Cloud team, which Google is developing to identify litter using AI and Google Street View imagery. Session topics will general discussion, brainstorming and a hands-on exercise with machine learning to encourage additional development and collaboration by participants. No coding experience is required, but this session will provide some accessible tools to help analysts and others interested in visualizing trash data dive into code that leverages some recent innovations.  
 

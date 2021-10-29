@@ -37,7 +37,7 @@ To report violations of these guidelines, please contact event organizer Corey C
 
 ### Daily schedule -- *tentative*
 
-Events are held from 9:30am - 3:30pm PDT (UTC -7) each day. Participants should select 1-2 breakout *groups* to return to during breakout *sessions* throughout the event. 
+Events are held from 9:30am - 3:30pm PDT (UTC -7) on Thursday and 9:30am - 3:00pm PDT on Friday. Participants should select 1-2 breakout *groups* to return to during breakout *sessions* throughout the event. 
 
 |date *time* | event              | leader               |
 |------------|--------------------|----------------------|
@@ -60,7 +60,7 @@ Events are held from 9:30am - 3:30pm PDT (UTC -7) each day. Participants should 
 |*12:15pm*   | Lunch              | on your own
 |*1:00pm*    | Breakout Session 4 | Breakout organizers
 |*2:30pm*    | Wrap-up Day 2      | Breakout organizers
-|*3:30pm*    | Event end          |
+|*3:00pm*    | Event end          |
 
 ***
 

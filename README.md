@@ -2,108 +2,48 @@
 
 <img align="right" src="TrashDataDive_BatR2.png" width="480"> 
 
-**Dates**: October 28-29, 2021
-
-**Location**: Entirely virtual, via Zoom
-
-**Organizer**: Dr. Corey Clatterbuck, California Sea Grant State Fellow, CA State Water Boards - [email me!](mailto:Corey.Clatterbuck@waterboards.ca.gov)
-
-**Ready to register?**: Registration is now closed. All registrants were sent confirmation emails with how to join the event. If you have any questions, please [email](mailto:Corey.Clatterbuck@waterboards.ca.gov) Corey Clatterbuck.
-
-***
-
 ### Purpose
-The Trash Data Dive is an annual forum for data scientists, environmental planners, trash regulators, land use experts, and advocates for environmental justice to discuss and collaborate on trash data & policy. The goal of the Data Dive is to use trash data effectively to drive improved and equitable social and environmental outcomes. This year, Data Dive participants will spend 2 days building and sharing technological, policy, and storytelling innovations leading towards less trash in our communities. 
+The California Trash Data Dive is an annual forum for data scientists, environmental planners, trash regulators, land use experts, and advocates for environmental justice to discuss and collaborate on trash data & policy. The goal of the Data Dive is to use trash data effectively to drive improved and equitable social and environmental outcomes. This year, Data Dive participants will spend 2 days building and sharing technological, policy, and storytelling innovations leading towards less trash in our communities. 
 
 ***
 
-### Community Participation Guidelines
-In order to facilitate a productive and effective event, we ask that all participants follow the guidelines below. They were developed with the event planning team and borrow heavily from the [Openscapes](https://www.openscapes.org/code-of-conduct/) code of conduct and training materials, including this [piece](https://eyeondesign.aiga.org/are-codes-of-conduct-changing-the-diversity-stats-in-open-source/) from Margaret Rhodes, and the Southern California Academy of Sciences.
+### Event summary
 
-1. Be inclusive: respect and facilitate others’ participation whether they are:
-    * Non-native language speakers
-    * Using pronouns other than he or she
-    * On or off-camera
-    * Facing other challenges to participation
-2. Move up & move up: If you tend to not speak a lot, please move up into a role of saying more. If you tend to speak a lot, please move up into a role of listening more.
-3. Be open to other perspectives -- these will make your ideas better!
-4. Remember to approach each interaction with patience and care
-5. We encourage authentic and non-judgmental feedback
-6. Do not attack, demean, harass, or threaten others or encourage this behavior  
+On October 28-29th, 2021, the State Water Resources Control Board’s Office of Information Management and Analysis held the fifth annual California Trash Data Dive virtually using Zoom. [Videos of the 2-day event](https://www.youtube.com/channel/UCfq3UT8xzT9In0RUWSMOrxQ/playlists) are available on the California Water Quality Monitoring Council's Youtube page. The majority of the Data Dive was spent in 4, ~1.5 hour breakout sessions on the following topics:
+* Assessing Utility of Track 2 Trash Amendment Data Collection Strategies Throughout California
+* Remote ecosystem to tell trash stories
+* Machine learning to make trash data clean
 
-To report violations of these guidelines, please contact event organizer Corey Clatterbuck, Corey.Clatterbuck@waterboards.ca.gov, with a description of what has occurred and any supporting information that may be helpful in describing the situation. Corey will meet with Nick Martorano and potentially the session chair, as applicable and if asked, to determine next steps. 
 
-***
+A **big shoutout** to this year's breakout group facilitators, who provided hours of small group engagement working with trash data: [Dr. Win Cowger](www.wincowger.com), [Gary Conley](https://www.2ndnaturewater.com/about/), Jarma Bennett, [Dr. Julian Fulton](https://www.researchgate.net/profile/Julian-Fulton-2), [Shelly Moore](https://mooreplasticresearch.org/staff/), [Sarah Hutmacher](https://www.sandiegoriver.org/our_team.html), Walter Yu & [Dr. Tony Hale](https://www.sfei.org/users/tony-hale).
 
-### Daily schedule -- *tentative*
 
-Events are held from 9:30am - 3:30pm PDT (UTC -7) on Thursday and 9:30am - 3:00pm PDT on Friday. Participants should select 1-2 breakout *groups* to return to during breakout *sessions* throughout the event. 
-
-|date *time* | event              | leader               |
-|------------|--------------------|----------------------|
-|**Thursday, October 28**|
-|*9:30am*    | Welcome            | Corey Clatterbuck & Greg Gearheart
-|*9:45am*    | Keynote            | Charles Moore, Research Director, [The Moore Institute for Plastic Pollution Research](https://mooreplasticresearch.org/)
-|*10:25am*   | Break              |
-|*10:30am*   | Introduce breakout sessions | Corey & Breakout organizers
-|*10:45am*   | Breakout Session 1 | Breakout organizers
-|*12:15pm*   | Lunch              | on your own
-|*1:00pm*    | AI/ML demo: Google Litter Insights Platform | Google Cloud team
-|*1:30pm*    | Breakout Session 2 | Breakout organizers
-|*3:15pm*    | Wrap-up Day 1      | Breakout organizers
-|*3:30pm*    | Event end          |
-|**Friday, October 29**|
-|*9:30am*    | Welcome back!      | Corey Clatterbuck
-|*9:45am*    | [Caltrans Stormwater Public Education Campaign](https://CleanCA.com) | Michelle Alexander
-|*10:20am*   | Break              |
-|*10:30am*   | Breakout Session 3 | Breakout organizers
-|*12:15pm*   | Lunch              | on your own
-|*1:00pm*    | Breakout Session 4 | Breakout organizers
-|*2:30pm*    | Wrap-up Day 2      | Breakout organizers
-|*3:00pm*    | Event end          |
+In addition to the breakout groups, the Data Dive hosted 1 keynote speaker and 2 invited presentations from outside groups over the 2 days:
+* [Captain Charles Moore](http://www.captain-charles-moore.org/), Moore Institute for Plastic Pollution Research
+    * Keynote: A testimony on plastic pollution (previously given to the US House of Representative’s Transportation and Infrastructure Subcommittee on Water Resources and Environment) and keynote from the [Plastic Health Summit](https://www.plastichealthsummit.org/) (Amsterdam, 2021)
+* Raina Saboo, Sujit Sanjeev, and Robert Little, Google (“A sustainability team at Google focused on creating a world without waste”)
+    * Presentation: A demonstration of trash detection and quantification leveraging Google Street View data
+* [Michelle Alexander](https://sagentmarketing.com/michelle-alexander/), Sagent Marketing
+    * Presentation: Caltrans Stormwater Public Education Campaign
 
 ***
 
-### What are the breakout groups?
+### Outcomes
 
-Participants should select 1-2 breakout *groups* to return to during breakout *sessions* throughout the event.
-
-**Assessing Utility of Track 2 Trash Amendment Data Collection Strategies Throughout California**  
-**Organizers:** [Dr. Win Cowger](www.wincowger.com), [Gary Conley](https://www.2ndnaturewater.com/about/), Jarma Bennett, and [Dr. Julian Fulton](https://www.researchgate.net/profile/Julian-Fulton-2)  
-Track 2 trash amendment compliance is happening throughout the State, with permitted entities implementing litter interventions and assessing their effectiveness at a range of scales. The diversity of approaches towards both implementation and progress tracking will pose challenges for meaningful comparisons of program efficacy across the state, quantifying aggregate progress, and for identifying the most effective measures. This workgroup will focus on the state of track 2 data collection and reporting. We will explore similarities and differences of the data collected, identify critical information gaps, and share preliminary insights on the efficacy of strategies to eliminate trash delivery to receiving waters.  
-
-
-**Remote ecosystem to tell trash stories**  
-**Organizers:** [Shelly Moore](https://mooreplasticresearch.org/staff/) and [Sarah Hutmacher](https://www.sandiegoriver.org/our_team.html)  
-Past datathons have discussed the importance and need for storytelling on trash. This breakout would provide a virtual platform and tools to tell trash stories. 
-
-
-**Machine learning to make trash data clean**  -- *Thursday, October 28th only*  
-**Organizers:** Walter Yu & [Dr. Tony Hale](https://www.sfei.org/users/tony-hale)  
-Artificial intelligence and machine learning (AI/ML) is gaining adoption in many disciplines, including litter abatement and stormwater management, so this breakout session will focus on specific use cases and applications. Also, this session will build on the Litter Insights Platform presentation by the Google Cloud team, which Google is developing to identify litter using AI and Google Street View imagery. Session topics will general discussion, brainstorming and a hands-on exercise with machine learning to encourage additional development and collaboration by participants. No coding experience is required, but this session will provide some accessible tools to help analysts and others interested in visualizing trash data dive into code that leverages some recent innovations.  
-
-The session topics will include:
-1.	AI/ML Presentation and Group Discussion
-2.	Group Exercises  
-    a. Computer Vision – Litter Detection (Google Colab)  
-    b.	Open Refine – Data Cleaning with AI/ML  
-    c.	Other – Trash Classifier, Data Visualization and Open Data (Jan 2021 Session)
-
+The **primary outcomes** of this event included:
+* Some accessible tools to help analysts and others interested in visualizing trash data dive into code that leverages some recent innovations. These tools are linked in the AI/ML breakout group [slide deck](https://docs.google.com/presentation/d/15fkC6zUa3EG1UsO_cLj7fJBCR_b24gXSvECWtAbbous/edit?usp=sharing).
+* A pilot Story Map on Trash Monitoring in California, with the intention of adding only information on the type of data collected, who was collecting it, and where. We are not far enough along at this point to share what we have with everyone but are hopeful to build out more in the future. Contact [Shelly Moore](mailto:shellym@sfei.org) for more information on developing this remote ecosystem for trash stories.
+* A data flow map and schema for trash amendment data, available in this [slide deck](https://docs.google.com/presentation/d/15rbgnAMCU2jyvJlmavo8uWypCafOteprAGMPKa1bsEM/edit#slide=id.gf812d253ed_5_62) from the Track 2 Trash Amendment breakout group. 
+* A discussion of major learnings and mapped bottlenecks from trash amendment data so far. 
 
 
 ***
 
-### How do I join?  
-Registration is now closed. All registrants were sent confirmation emails with how to join the event. If you have any questions, please [email](mailto:Corey.Clatterbuck@waterboards.ca.gov) Corey Clatterbuck.
+### How do I stay involved?
 
-
-***
-
-### How should I prepare?
-1. Download [Zoom](https://zoom.us/) for desktop (preferable) or mobile. 
-2. Register with Zoom
-3. Change your [Display Name](https://support.zoom.us/hc/en-us/articles/201363203-Customizing-your-profile) in your Zoom profile to reflect your public name
-4. Get excited to talk about trash in our communities!
+* Join the California Trash Monitoring Workgroup! Instructions to receive email updates from this workgroup are available on the [workgroup website](https://mywaterquality.ca.gov/monitoring_council/trash_monitoring/membership.html). 
+* Walter Yu & Win Cowger are seeking volunteers on Trash AI as part of Code for America (Sacramento brigade). This is a good opportunity to work on a real-life project, and the brigade provides onboarding for new members. Learn more by attending the brigade’s weekly project nights via [Meetup](https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.meetup.com%2FCode4Sac%2F&data=04%7C01%7CCorey.Clatterbuck%40Waterboards.ca.gov%7C6a7afb8786b4445dc5e508d99cfa6ec4%7Cfe186a257d4941e6994105d2281d36c1%7C0%7C0%7C637713421698656998%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=xkD4jkdFvMo57GtY%2F32L7cCgGZv6ws3nomUUVeBhcyw%3D&reserved=0), or email [Walter Yu](mailto:walter.yu@dot.ca.gov) for more information.
+* Attend upcoming trash data events! Email [Corey Clatterbuck](mailto:Corey.Clatterbuck@waterboards.ca.gov) to be added to a trash data event mailing list. 
 
 ***
 
